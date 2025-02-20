@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<flowgorithm fileversion="4.2">
+    <attributes>
+        <attribute name="name" value="ps6p1 flowgorithm"/>
+        <attribute name="authors" value="Faris"/>
+        <attribute name="about" value=""/>
+        <attribute name="saved" value="2025-02-14 03:39:53 AM"/>
+        <attribute name="created" value="RmFyaXM7RkFSSVM7MjAyNS0wMi0xNDswMzoyNjoyOCBBTTsyMTQw"/>
+        <attribute name="edited" value="RmFyaXM7RkFSSVM7MjAyNS0wMi0xNDswMzozOTo1MyBBTTsxOzIyNTA="/>
+    </attributes>
+    <function name="Main" type="None" variable="">
+        <parameters/>
+        <body>
+            <declare name="count" type="Integer" array="False" size=""/>
+            <assign variable="count" expression="1"/>
+            <while expression="count &lt; 25">
+                <output expression="count" newline="True"/>
+                <assign variable="count" expression="count + 2"/>
+            </while>
+        </body>
+    </function>
+</flowgorithm>
