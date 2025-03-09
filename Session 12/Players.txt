@@ -1,0 +1,10 @@
+Khan, 0.653
+Paul, 0.299
+Philip, 0.421
+Shahid, 0.317
+Adam, 0.541
+Hall, 0.163
+Arshad, 0.451
+White, 0.296
+Baig, 0.623
+Sharma, 0.098
